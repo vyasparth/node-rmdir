@@ -1,0 +1,14 @@
+{
+  "name": "node-rmdir",
+  "version": "1.0.0",
+  "description": "A node module to delete directories recursively",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-rmdir"
+  ],
+  "author": "Parth Vyas",
+  "license": "ISC"
+}
