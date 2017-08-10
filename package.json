@@ -1,14 +1,33 @@
 {
-  "name": "node-rmdir",
-  "version": "1.0.0",
+  "name": "rmdir-node",
+  "version": "1.0.1",
   "description": "A node module to delete directories recursively",
+  "repository": "github.com/vyasparth/node-rmdir",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "node-rmdir"
+    "node-rmdir",
+    "del",
+    "node",
+    "directory",
+    "folder",
+    "file",
+    "recursive",
+    "recursively",
+    "unlink",
+    "rmdir",
+    "rm",
+    "rm -r",
+    "rmdir -r",
+    "remove",
+    "files",
+    "files",
+    "del",
+    "nonempty",
+    "empty"
   ],
   "author": "Parth Vyas",
-  "license": "ISC"
+  "license": "MIT"
 }
